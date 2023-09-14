@@ -4,7 +4,7 @@ Newest update: version 1.0.0.2 - September 12, 2023.
 
 Recommended Java: newer than "jre-8u361" & "jdk-18.0.2.1". JVM does matter. If it is too old, the game will not even start up.
 
-Having a possible laptop charging cable plugged in is highly recommended. That somehow speeds up the game on PCs.
+Having a possible laptop charging cable plugged in is highly recommended. That somehow speeds up the game on some PCs.
 
 The game is only in Finnish. Google Drive has MP4 cutscenes available: 
 https://drive.google.com/drive/folders/110sPxB1HPm08zQFlkPZfCN3-ZpUfN7zv 
