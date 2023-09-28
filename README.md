@@ -6,5 +6,5 @@ Recommended Javas: newer than "jre-8u361" & "jdk-18.0.2.1". JVM does matter! If 
 
 Having a possible laptop charging cable plugged in is highly recommended. That somehow speeds up the game on some PCs.
 
-The game is only in Finnish. Google Drive has JRE+JDK and also the original MP4 cutscenes available: 
+The game is only in Finnish. Google Drive has JRE+JDK (for Windows) and also the original MP4 cutscenes available: 
 https://drive.google.com/drive/folders/110sPxB1HPm08zQFlkPZfCN3-ZpUfN7zv 
