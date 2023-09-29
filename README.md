@@ -1,6 +1,5 @@
 # Hugo_Ski_Game_Finnish_24-2-2023
 Java skiing game - Hugo the Troll fan game - I do not own the Hugo franchise - support the official releases! 
-Newest JAR update: version 1.0.0.3 - September 28, 2023. 
 
 Recommended Java: newer than "jre-8u361" & "jdk-18.0.2.1". JVM does matter. If the game will not start up, install JDK.
 https://www.oracle.com/java/technologies/downloads/ 
