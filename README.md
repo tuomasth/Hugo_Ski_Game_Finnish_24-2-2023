@@ -11,7 +11,9 @@ Having a possible laptop charging cable plugged in is highly recommended. The ba
 The game is only in Finnish. Google Drive has the JDK (for Windows x64) and also the original MP4 cutscenes available: 
 https://drive.google.com/drive/folders/110sPxB1HPm08zQFlkPZfCN3-ZpUfN7zv 
 
-No matter what GitHub informs you, this is made 100 %:tly with the Java programming language. "Shell" and "Html" probably come from the "Java Media Framework" library that has been used. Also, for some reason some people think this is an old Java Mobile Phone game. That is just wrong! Those were used in about 2000-2009 and I am not interested in developing old cell phone applications! Java is a programming language by Oracle / Sun Microsystems.
+No matter what GitHub informs you, this is made 100 %:tly with the Java programming language. "Shell" and "Html" probably come from the "Java Media Framework" library that has been used.
+
+Also, for some reason some people think this is an old Java Mobile Phone game. That is just wrong! Those were used in about 2000-2009 and I am not interested in developing old cell phone applications! Java is a programming language by Oracle / Sun Microsystems.
 
 ---
 
