@@ -32,7 +32,10 @@ Bugs and improvement ideas:
 ---
 
 Instructions: 
-1. Install the newest JDK.
+1. Install the newest JDK (or "JDK-18.0.2.1").
 2. Choose the Code button -> download ZIP. 
 3. Extract the Zip to a folder you want. 
 4. Double-click "HugoHiihto.jar" and the game should start up. The file "run.bat" has the command "java -jar HugoHiihto.jar". The Operating System might warn you of executing unknown exe and bat files. 
+
+On Linux, you might have to make the JAR file executable: 
+https://askubuntu.com/questions/270172/how-can-i-make-a-jar-file-executable 
