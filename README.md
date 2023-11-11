@@ -31,12 +31,6 @@ Bugs and improvement ideas:
 
 ---
 
-Ohjeet: 
-1. Asenna uusin JDK.
-2. Code-nappi -> download ZIP. 
-3. Pura Zip-paketin tiedostot haluamaasi kansioon. 
-4. Peli käynnistyy kaksoisklikkaamalla tiedostoa "HugoHiihto.jar". Tiedosto "run.bat" ajaa saman asian komennollaan "java -jar HugoHiihto.jar". Käyttöjärjestelmä voi varoittaa, ettei tuntemattomia exe/bat-tiedostoja kuulu käynnistää. 
-
 Instructions: 
 1. Install the newest JDK.
 2. Choose the Code button -> download ZIP. 
