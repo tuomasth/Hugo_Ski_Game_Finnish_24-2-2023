@@ -15,6 +15,8 @@ No matter what GitHub informs you, this is made 100 %:tly with the Java programm
 
 Also, for some reason some people think this is an old Java Mobile Phone game. That is just wrong! Those were used in about 2000-2009 and I am not interested in developing old cell phone applications. Java is a programming language by Oracle / Sun Microsystems.
 
+IF A VIDEO CUTSCENE DOES NOT START, MOVE THE MOUSE CURSOR ON THE WINDOW. The visuals depend on your own PC. The speed of the graphic objects might be extremely slow or fast, depending on the computer.
+
 ---
 
 Bugs and improvement ideas:
