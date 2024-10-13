@@ -1,4 +1,10 @@
 # Hugo_Ski_Game_Finnish_24-2-2023
+THIS VERSION IS OUTDATED BUT CAN BE ENJOYED BY THOSE WHO DO NOT WANT ENGLISH TEXTS
+
+NEW VERSION: https://github.com/tuomasth/Hugo_Ski_Game_English_Texts_13-10-2024 
+
+----
+
 Java skiing game - Hugo the Troll fan game - I do not own the Hugo franchise - support the official releases! 
 
 Version: 1.0.0.4 (November 8, 2023). 
