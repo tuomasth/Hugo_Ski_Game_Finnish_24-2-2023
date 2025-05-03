@@ -5,6 +5,8 @@ NEW VERSION: https://github.com/humbertodias/hugo-ski-game-en
 (25.3.2025)
 ----
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wnv_819VI0s?si=oZ76VHdN01SksznQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Java skiing game - Hugo the Troll fan game - I do not own the Hugo franchise - support the official releases! 
 
 Version: 1.0.0.4 (November 8, 2023). 
