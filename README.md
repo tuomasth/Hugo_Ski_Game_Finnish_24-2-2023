@@ -1,8 +1,9 @@
 # Hugo_Ski_Game_Finnish_24-2-2023
 THIS VERSION IS OUTDATED BUT CAN BE ENJOYED BY THOSE WHO DO NOT WANT ENGLISH TEXTS
-----
+
 NEW VERSION: https://github.com/humbertodias/hugo-ski-game-en
 (25.3.2025)
+
 ----
 
   <a href="#" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Wnv_819VI0s</a> 
